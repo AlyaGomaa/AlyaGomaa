@@ -1,10 +1,9 @@
-<h2> Hi, I'm Alya Gomaa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Alya Gomaa </h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align="right" src="https://raw.githubusercontent.com/AlyaGomaa/AlyaGomaa/main/icon.png" width="230">
 
-Security Researcher at ![Stratosphere Research Lab](https://www.stratosphereips.org/)
+A Security Researcher at [Stratosphere Research Lab](https://www.stratosphereips.org/) 
 
-![https://alyagomaa.github.io/blog/](https://alyagomaa.github.io/blog/)
+[https://alyagomaa.github.io/blog/](https://alyagomaa.github.io/blog/)
 
 
 [![Linkedin: alyagomaa](https://img.shields.io/badge/-alyagomaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyagomaa/)](https://www.linkedin.com/in/alyagomaa/)
@@ -24,30 +23,15 @@ Security Researcher at ![Stratosphere Research Lab](https://www.stratosphereips.
 
 </p>
 
-
-
-![Metrics](https://metrics.lecoq.io/alyagomaa?template=classic&base.indepth=false&config.timezone=Africa%2FCairo)
-
-
 [![Alya's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyagomaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](https://metrics.lecoq.io/alyagomaa?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FCairo)
-
-
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img  width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alyagomaa&theme=react&border=61dafb&hide_border=true" alt="alyagomaa" />
 </a>
 
-
-<br>
-<br> 
 <br>
 
 
 ![Metrics](https://metrics.lecoq.io/alyagomaa?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&stars.limit=4&config.timezone=Africa%2FCairo)
 
 
-<br>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> 
