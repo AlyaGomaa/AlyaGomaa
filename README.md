@@ -10,16 +10,7 @@ A Security Researcher at [Stratosphere Research Lab](https://www.stratosphereips
 [![mmn3mm>](https://img.shields.io/badge/No.%201%20Supporter-%E2%99%A5-red)](https://github.com/mmn3mm)
 
 
-<p>
 
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-
-
-</p>
 
 [![Alya's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyagomaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
