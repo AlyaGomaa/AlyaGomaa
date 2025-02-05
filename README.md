@@ -3,7 +3,7 @@
 
 A Security Researcher at [Stratosphere Research Lab](https://www.stratosphereips.org/) 
 
-[https://alyagomaa.github.io/blog/](https://alyagomaa.github.io/blog/)
+
 
 
 [![Linkedin: alyagomaa](https://img.shields.io/badge/-alyagomaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyagomaa/)](https://www.linkedin.com/in/alyagomaa/)
