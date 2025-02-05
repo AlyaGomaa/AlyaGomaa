@@ -14,9 +14,7 @@ A Security Researcher at [Stratosphere Research Lab](https://www.stratosphereips
 
 [![Alya's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyagomaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img  width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alyagomaa&theme=react&border=61dafb&hide_border=true" alt="alyagomaa" />
-</a>
+
 
 
 
