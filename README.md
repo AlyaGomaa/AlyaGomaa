@@ -29,9 +29,5 @@ A Security Researcher at [Stratosphere Research Lab](https://www.stratosphereips
       <img  width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alyagomaa&theme=react&border=61dafb&hide_border=true" alt="alyagomaa" />
 </a>
 
-<br>
-
-
-![Metrics](https://metrics.lecoq.io/alyagomaa?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&stars.limit=4&config.timezone=Africa%2FCairo)
 
 
